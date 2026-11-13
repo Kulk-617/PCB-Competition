@@ -257,7 +257,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "PCB_Competition.kicad_pro",
+    "filename": "PCB_Comp.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -425,9 +425,9 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "PCB_Competition.kicad_sch",
-        "name": "PCB_Competition",
-        "uuid": "7b8579b2-0a78-496a-8deb-5551800aaa92"
+        "filename": "PCB_Comp.kicad_sch",
+        "name": "Root",
+        "uuid": "50fb62d3-bfec-4d44-827e-d4f07c256fde"
       }
     ],
     "used_designators": "",
@@ -435,27 +435,31 @@
   },
   "sheets": [
     [
-      "7b8579b2-0a78-496a-8deb-5551800aaa92",
-      "PCB_Competition"
+      "50fb62d3-bfec-4d44-827e-d4f07c256fde",
+      "Root"
     ],
     [
-      "e20da066-8f18-4901-80c7-953f8c708040",
-      "ESP32_mem"
+      "0b72fe10-3e61-476b-a991-4e2eb61a7ab7",
+      "ESP32_Core"
     ],
     [
-      "2e3c3d88-a207-4b1d-8b80-1862e42017f8",
+      "ecb2e428-dd63-4228-b95a-dd0768b3d13a",
+      "Memory_Storage"
+    ],
+    [
+      "be526a50-3397-44b7-95b1-d84005dbfbdb",
       "Camera"
     ],
     [
-      "e70f0dd7-fffa-4cce-b167-8e9b17b753a0",
+      "13fcadf1-5648-4f9f-9bed-b920987670cd",
       "Display"
     ],
     [
-      "47d8a44f-6aaf-4eff-9aad-3a174501b227",
+      "0e82eac6-ff83-4862-9442-d7941a42b565",
       "Audio"
     ],
     [
-      "71e6b51d-0675-49a6-93b0-c99e42046f92",
+      "5f35900f-0fdb-49f4-be11-63d9943507e1",
       "Power_USB"
     ]
   ],

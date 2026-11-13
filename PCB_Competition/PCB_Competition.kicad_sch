@@ -1,0 +1,244 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "7b8579b2-0a78-496a-8deb-5551800aaa92")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 57.15 81.28)
+		(size 55.88 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "2e3c3d88-a207-4b1d-8b80-1862e42017f8")
+		(property "Sheetname" "Camera"
+			(at 57.15 80.5684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Camera.kicad_sch"
+			(at 57.15 121.2346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_Competition"
+				(path "/7b8579b2-0a78-496a-8deb-5551800aaa92"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.21 31.75)
+		(size 54.61 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "47d8a44f-6aaf-4eff-9aad-3a174501b227")
+		(property "Sheetname" "Audio"
+			(at 156.21 31.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Audio.kicad_sch"
+			(at 156.21 71.7046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_Competition"
+				(path "/7b8579b2-0a78-496a-8deb-5551800aaa92"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 157.48 80.01)
+		(size 53.34 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5f22af7a-d2f3-4fc1-b619-10bfd08dc5bf")
+		(property "Sheetname" "Display"
+			(at 157.48 79.2984 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 157.48 121.2346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_Competition"
+				(path "/7b8579b2-0a78-496a-8deb-5551800aaa92"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 106.68 133.35)
+		(size 64.77 38.1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "71e6b51d-0675-49a6-93b0-c99e42046f92")
+		(property "Sheetname" "Power_USB"
+			(at 106.68 132.6384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_USB.kicad_sch"
+			(at 106.68 172.0346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_Competition"
+				(path "/7b8579b2-0a78-496a-8deb-5551800aaa92"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 57.15 31.75)
+		(size 55.88 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e20da066-8f18-4901-80c7-953f8c708040")
+		(property "Sheetname" "ESP32_mem"
+			(at 57.15 31.0384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ESP32_mem.kicad_sch"
+			(at 57.15 71.7046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_Competition"
+				(path "/7b8579b2-0a78-496a-8deb-5551800aaa92"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -98,52 +98,6 @@
 		)
 	)
 	(sheet
-		(at 157.48 80.01)
-		(size 53.34 40.64)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "5f22af7a-d2f3-4fc1-b619-10bfd08dc5bf")
-		(property "Sheetname" "Display"
-			(at 157.48 79.2984 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "untitled.kicad_sch"
-			(at 157.48 121.2346 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "PCB_Competition"
-				(path "/7b8579b2-0a78-496a-8deb-5551800aaa92"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 106.68 133.35)
 		(size 64.77 38.1)
 		(exclude_from_sim no)
@@ -231,6 +185,52 @@
 			(project "PCB_Competition"
 				(path "/7b8579b2-0a78-496a-8deb-5551800aaa92"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.21 81.28)
+		(size 55.88 39.37)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "e70f0dd7-fffa-4cce-b167-8e9b17b753a0")
+		(property "Sheetname" "Display"
+			(at 156.21 80.5684 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "display.kicad_sch"
+			(at 156.21 121.2346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCB_Competition"
+				(path "/7b8579b2-0a78-496a-8deb-5551800aaa92"
+					(page "4")
 				)
 			)
 		)

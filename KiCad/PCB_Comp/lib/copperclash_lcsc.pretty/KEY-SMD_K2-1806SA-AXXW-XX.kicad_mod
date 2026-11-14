@@ -40,7 +40,7 @@
 	(fp_line (start -2.27 -1.58) (end -2.27 0.92) (layer F.CrtYd) (width 0.05))
 	(fp_line (start -2.27 0.92) (end 2.32 0.92) (layer F.CrtYd) (width 0.05))
 	(fp_line (start 2.32 0.92) (end 2.32 0.91) (layer F.CrtYd) (width 0.05))
-	(model "lib/copperclash_lcsc.3dshapes/KEY-SMD_L4.6-W2.3-H1.8-P3.4.wrl"
+	(model "${KIPRJMOD}/lib/copperclash_lcsc.3dshapes/KEY-SMD_L4.6-W2.3-H1.8-P3.4.wrl"
 		(offset (xyz 0.000 0.000 0.000))
 		(scale (xyz 1 1 1))
 		(rotate (xyz 0 0 180))

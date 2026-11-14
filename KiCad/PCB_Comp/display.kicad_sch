@@ -2651,7 +2651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17c1221e-8dad-43cb-bc27-d57ba9f9003d")
-		(property "Reference" "R44"
+		(property "Reference" "R45"
 			(at 102.87 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2715,7 +2715,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/13fcadf1-5648-4f9f-9bed-b920987670cd"
-					(reference "R44")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -2743,7 +2743,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 134.62 100.076 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3062,7 +3062,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "fp-133h0M1d"
 			(at 101.6 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3072,7 +3072,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "copperclash_lcsc:LCD_FPC-16P_P0.5mm_FH12-16S"
 			(at 101.6 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -3354,7 +3354,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NMOS_GSD"
+		(property "Value" "SI2300A"
 			(at 168.91 102.8701 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3428,7 +3428,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9f091966-01ff-4681-83ee-b2ce50d7a659")
-		(property "Reference" "R45"
+		(property "Reference" "R44"
 			(at 127 60.9599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3492,7 +3492,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/13fcadf1-5648-4f9f-9bed-b920987670cd"
-					(reference "R45")
+					(reference "R44")
 					(unit 1)
 				)
 			)
@@ -3676,7 +3676,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "100n"
 			(at 121.666 147.066 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3995,7 +3995,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 144.78 124.206 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4076,7 +4076,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10uF"
+		(property "Value" "10u"
 			(at 129.54 147.066 0)
 			(show_name no)
 			(do_not_autoplace no)

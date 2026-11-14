@@ -5,9 +5,75 @@
 	(uuid "50fb62d3-bfec-4d44-827e-d4f07c256fde")
 	(paper "A4")
 	(lib_symbols)
+	(text "ESP32-S3 MCU, RF match, 40 MHz crystal, buttons"
+		(exclude_from_sim no)
+		(at 25.4 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "50d5c5b7-1bc2-4403-a6d2-d3966aa38bd5")
+	)
+	(text "16 MB flash, 8 MB PSRAM, microSD"
+		(exclude_from_sim no)
+		(at 35.56 108.458 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "828bfaeb-2f0f-4906-9f96-dea731af99f1")
+	)
+	(text "OV2640 FPC, 2.8 V / 1.5 V LDOs, IR-cut driver"
+		(exclude_from_sim no)
+		(at 197.358 109.982 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8fbf763f-dcff-4ffa-ac9d-f928d3b7a200")
+	)
+	(text "1.3in 240x240 LCD + touch, backlight switch"
+		(exclude_from_sim no)
+		(at 109.22 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c3400871-a6ae-43a4-86fb-ee021cbccae0")
+	)
+	(text "USB-C, SY6970 charger, 3.3 V buck + LDO"
+		(exclude_from_sim no)
+		(at 202.184 50.292 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cefe8bde-c222-4013-8dd3-1e5a87e73433")
+	)
+	(text "MAX98357A speaker amp, PDM microphone"
+		(exclude_from_sim no)
+		(at 115.062 108.204 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e112981d-38d0-45ed-afa2-77d50891944f")
+	)
 	(sheet
-		(at 24.13 26.67)
-		(size 64.77 43.18)
+		(at 22.86 30.48)
+		(size 63.5 40.64)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -22,7 +88,7 @@
 		)
 		(uuid "0b72fe10-3e61-476b-a991-4e2eb61a7ab7")
 		(property "Sheetname" "ESP32_Core"
-			(at 24.13 25.9584 0)
+			(at 22.86 29.7684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -33,7 +99,7 @@
 			)
 		)
 		(property "Sheetfile" "esp32_core.kicad_sch"
-			(at 24.13 70.4346 0)
+			(at 22.86 71.8846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -52,8 +118,8 @@
 		)
 	)
 	(sheet
-		(at 104.14 83.82)
-		(size 59.69 40.64)
+		(at 106.68 88.9)
+		(size 63.5 40.64)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -68,7 +134,7 @@
 		)
 		(uuid "0e82eac6-ff83-4862-9442-d7941a42b565")
 		(property "Sheetname" "Audio"
-			(at 104.14 83.1084 0)
+			(at 106.68 88.1884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -79,7 +145,7 @@
 			)
 		)
 		(property "Sheetfile" "audio.kicad_sch"
-			(at 104.14 125.0446 0)
+			(at 106.68 130.3046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -90,7 +156,7 @@
 			)
 		)
 		(property "Field2" ""
-			(at 104.14 83.82 0)
+			(at 106.68 88.9 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -109,8 +175,8 @@
 		)
 	)
 	(sheet
-		(at 105.41 26.67)
-		(size 58.42 44.45)
+		(at 106.68 30.48)
+		(size 63.5 40.64)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -125,7 +191,7 @@
 		)
 		(uuid "13fcadf1-5648-4f9f-9bed-b920987670cd")
 		(property "Sheetname" "Display"
-			(at 105.41 25.9584 0)
+			(at 106.68 29.7684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -136,7 +202,7 @@
 			)
 		)
 		(property "Sheetfile" "display.kicad_sch"
-			(at 105.41 71.7046 0)
+			(at 106.68 71.8846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -155,8 +221,8 @@
 		)
 	)
 	(sheet
-		(at 184.15 27.94)
-		(size 62.23 40.64)
+		(at 190.5 30.48)
+		(size 63.5 40.64)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -171,7 +237,7 @@
 		)
 		(uuid "5f35900f-0fdb-49f4-be11-63d9943507e1")
 		(property "Sheetname" "Power_USB"
-			(at 184.15 27.2284 0)
+			(at 190.5 29.7684 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -182,7 +248,7 @@
 			)
 		)
 		(property "Sheetfile" "power_usb.kicad_sch"
-			(at 184.15 69.1646 0)
+			(at 190.5 71.8846 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -201,8 +267,8 @@
 		)
 	)
 	(sheet
-		(at 184.15 85.09)
-		(size 63.5 39.37)
+		(at 190.5 88.9)
+		(size 63.5 40.64)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -217,7 +283,7 @@
 		)
 		(uuid "be526a50-3397-44b7-95b1-d84005dbfbdb")
 		(property "Sheetname" "Camera"
-			(at 184.15 84.3784 0)
+			(at 190.5 88.1884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -228,7 +294,7 @@
 			)
 		)
 		(property "Sheetfile" "cam.kicad_sch"
-			(at 184.15 125.0446 0)
+			(at 190.5 130.3046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -247,8 +313,8 @@
 		)
 	)
 	(sheet
-		(at 24.13 83.82)
-		(size 64.77 40.64)
+		(at 22.86 88.9)
+		(size 63.5 40.64)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -263,7 +329,7 @@
 		)
 		(uuid "ecb2e428-dd63-4228-b95a-dd0768b3d13a")
 		(property "Sheetname" "Memory_Storage"
-			(at 24.13 83.1084 0)
+			(at 22.86 88.1884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -274,7 +340,7 @@
 			)
 		)
 		(property "Sheetfile" "mem_storage.kicad_sch"
-			(at 24.13 125.0446 0)
+			(at 22.86 130.3046 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

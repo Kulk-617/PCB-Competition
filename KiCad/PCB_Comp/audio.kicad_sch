@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "dd0d5a20-1cb3-48d9-8843-816e579f5878")
+	(uuid "f64e8a26-49f0-483a-9c66-bca0915aff63")
 	(paper "A4")
 	(lib_symbols
 		(symbol "Audio:MAX98357A"

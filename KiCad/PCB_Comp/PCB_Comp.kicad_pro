@@ -430,7 +430,7 @@
         "uuid": "50fb62d3-bfec-4d44-827e-d4f07c256fde"
       }
     ],
-    "used_designators": "#PWR1-27,C1-12,C57-58,C61-62,Card1,D1-4,J1,L1-2,MIC1,Q1-3,Q5,R1-20,R44-47,R49-50,U1-4,U11",
+    "used_designators": "#FLG1-4,#PWR1-90,C1-14,C16-17,C20-21,C47-48,C50,C52,C57-58,C61-62,CN2,Card1,D1-4,FPC1,J1,L1-2,L4,MIC1,Q1-3,Q5,R1-20,R34,R38,R40,R44-47,R49-50,RF1,SW1-3,U1-4,U11,X2,Y1",
     "variants": []
   },
   "sheets": [

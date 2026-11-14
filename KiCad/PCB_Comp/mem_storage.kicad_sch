@@ -2714,7 +2714,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "193207fa-d354-431b-a018-9035676839ad")
-		(property "Reference" "R4"
+		(property "Reference" "R58"
 			(at 109.728 125.222 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2736,7 +2736,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 112.522 128.27 90)
 			(hide yes)
 			(show_name no)
@@ -2778,7 +2778,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "R4")
+					(reference "R58")
 					(unit 1)
 				)
 			)
@@ -2873,7 +2873,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33948591-662b-4783-8fce-13185d99bfe2")
-		(property "Reference" "D2"
+		(property "Reference" "D5"
 			(at 97.536 159.766 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2895,7 +2895,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "copperclash_lcsc:DFN1006-2L-BI"
 			(at 101.6 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -2937,7 +2937,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "D2")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -2954,7 +2954,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3529bf5c-764f-4d2c-a09f-c5a839334e96")
-		(property "Reference" "R1"
+		(property "Reference" "R55"
 			(at 90.678 125.222 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2976,7 +2976,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 93.472 128.27 90)
 			(hide yes)
 			(show_name no)
@@ -3018,7 +3018,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "R1")
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -3036,7 +3036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39530bc6-21a1-4b03-8a64-3217a89383ac")
-		(property "Reference" "U1"
+		(property "Reference" "U2"
 			(at 83.82 88.8999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3118,7 +3118,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "U1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -3291,7 +3291,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "63651e28-efe9-43be-afe0-4b81777c4a7f")
-		(property "Reference" "D1"
+		(property "Reference" "D4"
 			(at 91.186 160.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3313,7 +3313,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "copperclash_lcsc:DFN1006-2L-BI"
 			(at 95.25 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -3355,7 +3355,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "D1")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -3372,7 +3372,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "67443706-8105-4724-be73-11f6be4161db")
-		(property "Reference" "R3"
+		(property "Reference" "R57"
 			(at 103.378 125.222 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3394,7 +3394,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 106.172 128.27 90)
 			(hide yes)
 			(show_name no)
@@ -3436,7 +3436,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "R3")
+					(reference "R57")
 					(unit 1)
 				)
 			)
@@ -3532,7 +3532,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c16cd05-3cb5-41ff-bfc2-6b8707e5795d")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 127 90.1699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3614,7 +3614,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -3631,7 +3631,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9087c4f3-230a-4b8c-b053-79afe7f8c714")
-		(property "Reference" "D4"
+		(property "Reference" "D7"
 			(at 110.49 160.274 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3653,7 +3653,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "copperclash_lcsc:DFN1006-2L-BI"
 			(at 114.3 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -3695,7 +3695,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "D4")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -3712,7 +3712,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9422eecd-a6e0-4086-ad5a-0178fdb59d20")
-		(property "Reference" "R2"
+		(property "Reference" "R56"
 			(at 97.028 125.222 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3734,7 +3734,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 99.822 128.27 90)
 			(hide yes)
 			(show_name no)
@@ -3776,7 +3776,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "R2")
+					(reference "R56")
 					(unit 1)
 				)
 			)
@@ -3871,7 +3871,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9c3fbb61-2320-4492-b15b-ab037f7a7012")
-		(property "Reference" "C2"
+		(property "Reference" "C66"
 			(at 172.212 144.018 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3893,7 +3893,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 172.4152 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -3935,7 +3935,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "C2")
+					(reference "C66")
 					(unit 1)
 				)
 			)
@@ -4030,7 +4030,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "abd6f395-6e0d-466d-9556-f26b5ad3f1bf")
-		(property "Reference" "D3"
+		(property "Reference" "D6"
 			(at 103.886 160.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4052,7 +4052,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "copperclash_lcsc:DFN1006-2L-BI"
 			(at 107.95 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -4094,7 +4094,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "D3")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -4111,7 +4111,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d5e7cc41-2d22-4fc9-a45e-3d7e381df144")
-		(property "Reference" "C1"
+		(property "Reference" "C65"
 			(at 162.306 144.272 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4133,7 +4133,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 162.2552 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -4175,7 +4175,7 @@
 		(instances
 			(project "PCB_Comp"
 				(path "/50fb62d3-bfec-4d44-827e-d4f07c256fde/ecb2e428-dd63-4228-b95a-dd0768b3d13a"
-					(reference "C1")
+					(reference "C65")
 					(unit 1)
 				)
 			)

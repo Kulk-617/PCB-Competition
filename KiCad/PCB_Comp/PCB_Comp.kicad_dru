@@ -1,0 +1,3 @@
+(version 1)
+(rule "no_blind_buried_micro"
+    (constraint disallow buried_via micro_via))

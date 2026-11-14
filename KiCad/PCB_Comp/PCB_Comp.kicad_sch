@@ -62,7 +62,7 @@
 	)
 	(text "MAX98357A speaker amp, PDM microphone"
 		(exclude_from_sim no)
-		(at 115.062 108.204 0)
+		(at 112.522 110.236 0)
 		(effects
 			(font
 				(size 1.27 1.27)
